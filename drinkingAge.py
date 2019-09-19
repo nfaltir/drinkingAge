@@ -6,7 +6,7 @@ def drinkAge():
         print ("You are", userAge, " You are able to drink alcohol")
     else:
         print ("Your are", userAge, " You are not allowed to drink alchohol")
-        print (21-userAge, "more year left")
+        print (21-userAge, "more years left")
 
 
 
